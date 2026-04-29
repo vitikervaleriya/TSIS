@@ -8,4 +8,4 @@ This repository contains several Python projects:
 - Snake (classic snake game)
 
 ## Technologies
-Python, Pygame, PostgreSQL, JSON, CSV
+Python, Pygame, PostgreSQL, JSON
